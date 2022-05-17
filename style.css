@@ -1,0 +1,37 @@
+div {
+  width: 100px;
+  height: 100px;
+  background: brown;
+  border-radius: 50%;
+  position: relative;
+  display: block;
+  margin-top: -20px ;
+  margin-left: 90px;
+  margin-top: 70px;
+}
+
+
+html {
+  background: white;
+}
+  
+body {
+  position: fixed; 
+  width: 300px;
+  height: 200px;
+  border: 1px solid black;
+  position: relative;
+  margin: 100px;
+  content: "Japan";
+}
+
+
+h1 {
+  display: block;
+  position: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top:-50px;
+}
+
+ 
